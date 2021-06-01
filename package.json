@@ -13,15 +13,14 @@
   },
   "devDependencies": {
     "brotli": "^1.3.2",
-    "chokidar": "^3.5.1",
     "compression": "^1.7.4",
     "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "sass": "^1.34.0",
     "typescript": "^3.9.9",
     "yew-styles": "^0.9.0",
-    "@parcel/transformer-sass": "2.0.0-nightly.690+8c0721e5",
     "parcel": "^2.0.0-beta.2",
+    "@parcel/transformer-sass": "2.0.0-nightly.690+8c0721e5",
     "@parcel/config-default": "^2.0.0-beta.2"
   }
 }
